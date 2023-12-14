@@ -1,5 +1,5 @@
 
-#Alzheimer’s Disease Prediction
+##Alzheimer’s Disease Prediction
 
 ##Tessa Clary
 
