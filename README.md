@@ -8,19 +8,25 @@ This project explores prediction factors of Alzheimer's Disease via the impact o
 
 ## Questions
 How do demographic factors influence cognitive decline?
+
 Which variables show a significant impact on cognitive decline?
 
 
 ## Answers
 Race emerged as a significant factor influencing cognitive decline, while gender and age showed minimal impact.
+
 The quality of the data collected by the BRFSS can be called into question given the results of the models.
 
 
 ## Application of Knowledge
 The possible impact of the results of the project can have a multitude of potential applications:
+
 Improved diagnosis and early intervention for individuals at higher risk.
+
 Tailored healthcare strategies considering demographic influences.
+
 Better allocation of resources and research focus in Alzheimer's Disease studies
+
 A deeper examination of the dataset may be required by those who created it in order to discover and remove hidden biases in the data.
 
 
