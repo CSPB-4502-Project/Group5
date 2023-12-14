@@ -32,8 +32,10 @@ A deeper examination of the dataset may be required by those who created it in o
 
 ## Video Demonstration
 I apologize for this aspect of the project, I have been dealing with laryngitis recently and was unable to make a voice recording of decent quality. If there is anything else I can provide for you at this stage due to this shortcoming, please do not hesitate to reach out.
+
 https://github.com/CSPB-4502-Project/Group5/blob/main/Group5_Alzheimer's_Part6_Video.mp4
 
 
-##Final Project Paper
+## Final Project Paper
+
 https://github.com/CSPB-4502-Project/Group5/blob/main/Group5_Alzheimers_Part4.pdf
