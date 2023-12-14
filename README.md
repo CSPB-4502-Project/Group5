@@ -1,7 +1,5 @@
-
-##Alzheimer’s Disease Prediction
-
-##Tessa Clary
+# Alzheimer’s Disease Prediction
+## Tessa Clary
 
 ## Project Description
 
